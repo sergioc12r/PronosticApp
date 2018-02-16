@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\drago\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a6969878103f853f10f720e8c2e4e405\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\drago\OneDrive\Escritorio\Poyectos Android\PronosticApp2\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>
